@@ -34,9 +34,11 @@ SKILLS
 
 PROJECT WORK
 
-Plan-Tastic
-•	Personal planner site developed as a group project during Coding Boot Camp.
-•	Team consisted of four members, two for front-end and two for back-end.
+Alumni Web Portal
+•	Group project deveolped during Coding Boot Camp. Site serves as a way for alumni to connect, interact via a blog, search for users, etc.
+•	Team consisted of four developers, two front-end and two back-end. I created the overall look of the login and signup pages, including the creating of the backgrounds for the login page, logo and badges. I also assisted with testing/troubleshooting the site.
+•	 Group kept in communication via Slack and used Trello to track project tasks. As well as meeting on multiple occasions.
+
 
 KEY ACCOMPLISHMENTS
 
