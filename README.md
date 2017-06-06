@@ -70,8 +70,9 @@ KEY ACCOMPLISHMENTS
 EMPLOYMENT HISTORY
 
 Orlando Sentinel Media Group/Tronc Publishing	Sept 1994 – Aug 2016
-	Regional Trafficking Services Manager       Aug 2014 - Aug 2016
-	Prepress Supervisor                         2002 - Aug 2014
-	Prepress Trainer                            1999 - 2002
-	Ad Builder                                  1996 - 1999
-	Paste-up                                    Sept 1994 - 1996
+
+• Regional Trafficking Services Manager (Aug 2014 - Aug 2016)
+• Prepress Supervisor (2002 - Aug 2014)
+• Prepress Trainer (1999 - 2002)
+• Ad Builder (1996 - 1999)
+• Paste-up (Sept 1994 - 1996)
